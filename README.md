@@ -1,2 +1,2 @@
-# TheKestner.github.io
+# [The Kestner Blog](TheKestner.github.io)
 My First Blog

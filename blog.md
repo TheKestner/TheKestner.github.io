@@ -13,3 +13,5 @@ I think what I am most eager to learn more about is how this all connects togeth
 * **What is something about you that can only be learned by reading this blog?**
 
 Well to start, I've never written a blog about myself before. I wouldn't call myself a private person but I usually only share with people that I am close with but there is a first time for everything! My Name is Zachary Kestner but I go by either Zac or Kestner. A lot of the time it's Kestner due to the amount of other Zac's I've encountered in my life. I'm going by Kestner in this bootcamp for the same reason but honestly kinda prefer being called Kestner. *Fun fact* I went by Kestner all of my high school life since there was 3 other Zac's in my graduating class of only 49 people. Funny enough, one of them even had the same birthday as me.
+
+![Look at us](/image/who-wouldve-thought-not-me.gif)

@@ -2,6 +2,8 @@
 
 ## Week 2  
 
+![So Glad You Asked](/image/giphy.gif)
+
 * **What is something you wish you could do but currently do not have the coding skills to accomplish?**
     I try to not get ahead of myself but it would be great to be able to build from scratch without feeling the need to relay heavily on learning material. I know that is something that I will get the hang of with time and part of the learning experience. 
 
